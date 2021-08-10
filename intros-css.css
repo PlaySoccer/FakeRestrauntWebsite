@@ -1,0 +1,66 @@
+button{
+	font-family: 'Andika New Basic', sans-serif;
+}
+
+div{
+	text-align: center;
+}
+
+#arg{
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+	align-content: center;
+	align-items: center;
+}
+
+#redirect{
+	padding: 25px 25px;
+	outline: none;
+	border: none;
+	background: #7FE5F0;
+	position: relative;
+	top: 370px;
+	border-radius: 5%;
+	top: 350px;
+	left: 750px;
+}
+
+#redirect:hover {
+	transition: 0.5s;
+	padding: 30px 30px;
+	text-decoration: underline;
+}
+
+#intro{
+	text-align: center;
+	background-color: white;
+}
+
+h1{
+	font-weight: 14;
+	font-family: 'Andika New Basic', sans-serif;
+}
+
+body{
+	background-image: url("https://wallpaperaccess.com/full/3692584.jpg");
+}
+
+#redirect-2{
+	text-align: center;
+}
+#checkout-btn{
+	padding: 25px 20px;
+	background: #7FE5F0;
+	outline: none;
+	border: none;
+	border-radius: 5%;
+	position: relative;
+	top: 350px;
+	left: 450px;
+}
+
+#checkout-btn:hover {
+	padding: 30px 30px;
+	transition: 0.5s;
+}

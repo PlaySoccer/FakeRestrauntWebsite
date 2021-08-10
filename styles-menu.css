@@ -1,0 +1,86 @@
+table{
+  width: 500px;
+  position: relative;
+  top: 100px;
+  left: 500px;
+  font-family: 'Andika New Basic', sans-serif;
+}
+
+th{
+  text-align: center;
+}
+
+td{
+  text-align: center;
+}
+
+table, th, td{
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+th{
+  background-color: #ddd;
+}
+
+body{
+	display: flex;
+	flex-direction: row;
+
+}
+
+#Menu-Veggie{
+	position: relative;
+	right: 300px;
+	top: 50px;
+}
+
+#Menu-Meat{
+	position: relative;
+	right: 150px;
+	top: 50px;
+}
+
+#redirect-2{
+  padding: 25px 25px;
+  outline: none;
+  border: none;
+  background: #7FE5F0;
+  position: relative;
+  top: 450px;
+  right: 350px;
+  border-radius: 5%;
+  font-family: 'Andika New Basic', sans-serif;
+}
+
+#redirect-2:hover {
+  transition: 0.5s;
+  padding: 30px 30px;
+  text-decoration: underline;
+}
+
+#button-div{
+  text-align: center;
+}
+
+#checkout-btn-div{
+  text-align: center;
+}
+
+#checkout-btn-btn{
+  padding: 25px 25px;
+  outline: none;
+  border: none;
+  background: #7FE5F0;
+  position: relative;
+  top: 450px;
+  right: 330px;
+  border-radius: 5%;
+  font-family: 'Andika New Basic', sans-serif;
+}
+
+#checkout-btn-btn:hover {
+  transition: 0.5s;
+  padding: 30px 30px;
+  text-decoration: underline;
+}

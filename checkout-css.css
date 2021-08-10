@@ -1,0 +1,37 @@
+h1{
+	font-weight: 14;
+	font-family: 'Andika New Basic', sans-serif;
+/*	position: relative;
+	left: 500px;
+	right: 500px;*/
+	text-align: center;
+	background-color: blue;
+	color: white;
+
+}
+
+body{
+	background-image: url("https://images5.alphacoders.com/444/thumb-1920-444393.jpg");
+}
+
+#chckt{
+	outline: none;
+	border: none;
+	border-radius: 5%;
+	padding: 25px 25px;
+    background-color:#7FE5F0;
+    font-family: 'Andika New Basic', sans-serif;
+}
+
+#chckt:hover {
+	transition: 0.5s;
+	padding: 30px 30px;
+	text-decoration: underline;
+}
+
+button{
+	position: relative;
+	top: 300px;
+	left: 650px;
+	font-family: 'Andika New Basic', sans-serif;
+}
